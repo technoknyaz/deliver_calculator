@@ -11,3 +11,6 @@
 
 # Демонстрация работы tg-бота
 https://youtu.be/X1KCMNz-UjA
+
+# Ссылка на бота
+https://t.me/deliver_calc_bot
